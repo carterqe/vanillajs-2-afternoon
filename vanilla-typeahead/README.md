@@ -1,4 +1,4 @@
-# VanillaJS Typeahead
+  \           # VanillaJS Typeahead
 
 # Project Summary
 

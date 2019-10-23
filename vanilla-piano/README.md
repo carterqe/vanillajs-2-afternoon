@@ -105,7 +105,7 @@ In this step we'll get our piano to play a note when we press one of the valid k
 
 ### Instructions
 
-- Open `index.html`.
+- Open `index.html`.                   
 - Within the handler of our event listener invoke the `play` method on our tone audio element.
 - You should now be able to click one of the valid keys and hear the tone played.
   - But OH NO! When we press the key consecutively, it doesn't restart the tone, but instead allows the current tone to finish playing.

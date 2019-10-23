@@ -226,7 +226,7 @@ In this step we'll start our interval by creating an event listener that will li
 const mousePosition = { x: 0, y: 0 };
 let drawId;
 
-const getRandomNumber = function(min, max) {
+function getRandomNumber(min, max) {
   return Math.round(Math.random() * (max - min + 1)) + min;
 };
 
